@@ -99,12 +99,12 @@ Raw Dataset
 
 ## 🧠 Skills Demonstrated
 
--End-to-end analytics pipeline design
--Star schema data modeling
--SQL view creation & optimization
--DAX measure development
--Forecasting & correlation analysis
--Executive dashboard storytelling
+- End-to-end analytics pipeline design 
+- Star schema data modeling 
+- SQL view creation & optimization 
+- DAX measure development 
+- Forecasting & correlation analysis 
+- Executive dashboard storytelling 
 
 ---
 
