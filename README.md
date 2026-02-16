@@ -74,6 +74,9 @@ Raw Dataset
 
 # 📊 Page 2 — Customer & Category Intelligence
 
+## 🖼 Dashboard Preview
+![Customer Intelligence](dashboard_preview/customer_intelligence.png)
+
 ### Key Analysis Areas
 - Top 10 customers by lifetime value
 - Customer value segmentation (Low / Medium / High)
@@ -91,9 +94,6 @@ Raw Dataset
 - Demand planning visibility
 - Return risk monitoring
 - Category performance optimization
-
-## 🖼 Dashboard Preview
-![Customer Intelligence](dashboard_preview/customer_intelligence.png)
 
 ---
 
