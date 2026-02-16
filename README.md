@@ -50,6 +50,9 @@ Raw Dataset
 
 # 📈 Page 1 — Revenue Performance & Risk Analysis
 
+## 🖼 Dashboard Preview
+![Executive Overview](dashboard_preview/executive_overview.png)
+
 ### Key Metrics
 - Total Revenue: **73.4M**
 - Total Orders: **100K**
@@ -90,8 +93,6 @@ Raw Dataset
 - Category performance optimization
 
 ## 🖼 Dashboard Preview
-
-![Executive Overview](dashboard_preview/executive_overview.png)
 ![Customer Intelligence](dashboard_preview/customer_intelligence.png)
 
 ---
