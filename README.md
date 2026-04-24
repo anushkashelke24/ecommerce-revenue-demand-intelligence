@@ -5,7 +5,7 @@ End-to-end analytics project analyzing a synthetic e-commerce dataset (2023–20
 This project simulates a real-world BI workflow , from database modeling to executive dashboard reporting.
 
 ---
-
+ 
 ## 🔎 What This Project Covers
 
 - Revenue performance & forecasting
